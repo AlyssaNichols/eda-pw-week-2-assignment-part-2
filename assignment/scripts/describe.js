@@ -82,7 +82,6 @@ console.log(secret)
 // Console log "Welcome to Prime!" if isStudent is true.
 // Otherwise console log "How about the weather?"
 //
-//
 
 //CODE
 /*
@@ -101,7 +100,6 @@ if (isStudent === true && zip > 80000 ) {
 }
 
 */
-
 
 
 
@@ -133,11 +131,9 @@ if (number >= 2) {
 */
 
 
-
 //4. We start with three variables -- colorOne is set to 'blue' and 
 // colorTwo is set to 'red', and mix is set to true. We check if mix is true 
 // -- it is, so we set colorOne and colorTwo to 'purple'
-
 
 // FIX: colorOne should be set to blue and colorTwo should be set to red, they are switched in the code that was given. 
 // let colorOne = "blue"; let colorTwo = "red"
