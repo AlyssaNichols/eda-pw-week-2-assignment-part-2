@@ -1,3 +1,4 @@
+
 // WHAT IS THIS EVEN DOING?
 
 // For questions 1-3, each code block is syntactically and logically correct. Your job is to describe what is happening. 
@@ -26,10 +27,10 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// // We create a variable called name and set it to Dane as a string.
+// We create a variable called name and set it to Dane as a string.
 // Then we create a conditional that console logs "Hi, Mary" if the value of "name" is Mary.
 // If the value of "name" is not Mary, then we console log "How do you do?"
-//
+// Since the name variable in this one is Dane the console log would return "How do you do?"
 
 //CODE
 /*
@@ -52,10 +53,11 @@ if (name === 'Mary') {
 //
 // If the value of code is greater than 250, the value of secret will be a string called "duper".
 // Then we console log our secret variable to see the value of it.
-//
+// In this case the console log would return the value of super.
 
 //CODE
 /*
+
 let secret;
 
 let code = 123;
@@ -81,10 +83,11 @@ console.log(secret)
 // Console log "What are your Hobbies?" if isStudent is false or the value of age is less than 30.
 // Console log "Welcome to Prime!" if isStudent is true.
 // Otherwise console log "How about the weather?"
+// In this case the outcome of the console log would be "Welcome to Prime!"
 //
 
 //CODE
-/*
+/* 
 let isStudent = true;
 let age = 34;
 let zip = 55407;
@@ -100,6 +103,7 @@ if (isStudent === true && zip > 80000 ) {
 }
 
 */
+
 
 
 
@@ -131,9 +135,11 @@ if (number >= 2) {
 */
 
 
+
 //4. We start with three variables -- colorOne is set to 'blue' and 
 // colorTwo is set to 'red', and mix is set to true. We check if mix is true 
 // -- it is, so we set colorOne and colorTwo to 'purple'
+ 
 
 // FIX: colorOne should be set to blue and colorTwo should be set to red, they are switched in the code that was given. 
 // let colorOne = "blue"; let colorTwo = "red"
@@ -184,4 +190,3 @@ if(minAge <= age) {
   console.log('enter');
 }
 */
-
